@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+🔍 Looking for engineering positions near Seattle, WA <br/>
+❓ More about me at [owenmiller.me](https://owenmiller.me)
+
+
 
 <!--
 **owencmiller/owencmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
