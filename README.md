@@ -1,5 +1,6 @@
-### Howdy 👋
-🔍 Looking for engineering positions near Seattle, WA <br/>
+### Hi there 👋
+🔍 Seeking software engineering positions near Seattle, WA and remote<br/>
+🔭 Constantly learning and building new tools!
 ❓ More about me at [owenmiller.me](https://owenmiller.me)
 
 
