@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔍 I'm a Software Engineer in Seattle, WA<br/>
-- 🔭 Constantly learning and building new tools! <br/>
+- 🔍 I'm a Software Engineer in Pittsburgh, PA<br/>
+- 🔭 Seeking full-time opportunities <br/>
 - ❓ More about me at [owenmiller.me](https://owenmiller.me)
 
 
